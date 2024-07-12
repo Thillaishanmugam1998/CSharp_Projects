@@ -1,0 +1,3 @@
+This is samples of c# projects (WEB.API, ASP.NET core Web Application, DB Query)
+Git Hub Tutorials
+Project Structure... 
